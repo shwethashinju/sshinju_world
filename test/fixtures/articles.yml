@@ -2,12 +2,12 @@
 
 one:
   title: MyString
-  context: MyText
+  content: MyText
   category_id: 1
   active: false
 
 two:
   title: MyString
-  context: MyText
+  content: MyText
   category_id: 1
   active: false
